@@ -1,25 +1,25 @@
 # Mark Hadley
 
 ## SKILL SET
-- Java (Spring Boot)
-- Rust, Python, Typescript, SQL, UNIX based systems
-- Pipelines and Testing: Docker, Bamboo, Jenkins, Vagrant, Puppet
-- Test Driven Development subscriber and proponent
-- Proficient at bridging the gap between technical and non-technical stakeholders through clear and effective communication of complex technical concepts
+- Java (Spring Boot).
+- Rust, Python, Typescript, SQL, UNIX based systems.
+- Pipelines and Testing: Docker, Bamboo, Jenkins, Vagrant, Puppet.
+- Test Driven Development subscriber and proponent.
+- Proficient at bridging the gap between technical and non-technical stakeholders through clear and effective communication of complex technical concepts.
 
 ## EXPERIENCE
 ### Senior Java Developer – eReinsure (2019 - Present)
 Remote/Salt Lake City, UT
 - Manage multiple teams of 2-4 developers, overseeing the development of full stack applications.
-- Develop backend solutions using Java Spring Boot (modern versions with Java 11 and Java 17).
+- Develop backend solutions using modern versions of Java Spring Boot.
 - Lead Angular Frontend Development efforts.
 - Utilize Oracle Database (sql*Plus) for data storage and management.
 - Implement project tracking using Jira, facilitate communication and collaboration through Microsoft Teams, and establish CI/CD pipelines with Bamboo.
-- Collaborate with cross-functional teams to ensure the delivery of high-quality software products
+- Collaborate with cross-functional teams to ensure the delivery of high-quality software products.
 
-### Backend Engineer – Evernym Inc. (May 2017 - February 2019)
+### Backend Engineer – Evernym Inc. (2017 - 2019)
 Draper, UT
-- Co-maintainer and heavy contributor to a Rust Library for Open Source Identity Software.
+- Co-maintainer and significant contributor to an open-source Rust identity library.
 - Included a C API with Node.js, Python, and Java wrappers.
 - Contributed Scala code for an in-house identity tool.
 - Implemented automated testing for full stack via Python, Vagrant, and Puppet; adjusted and maintained to assure product quality.
@@ -27,7 +27,7 @@ Draper, UT
 - Team Member during launch of the Sovrin Foundation Permissioned Ledger (nodes in 6+ countries).
 - Collaborated regularly with multiple other teams: Front End Development, QA, Tech Enablement/Customers, Cryptography.
 
-### Contractor - IBM Spectrum Protect Automation Testing – IBM (October 2016 - May 2017)
+### Contractor - IBM Spectrum Protect Automation Testing – IBM (2016 - 2017)
 Tucson, AZ
 - Produced Java software for IBM’s in-house team of Spectrum Protect Database Testers.
 - Utilized the Vaadin framework, a Java-based tool for creating web applications.
