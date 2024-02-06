@@ -1,3 +1,2 @@
-README.md linguist-documentation=hadley_resume.md
 *.md diff=markdown
 hadley_resume.md default
