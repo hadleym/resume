@@ -48,10 +48,6 @@ Tucson, AZ
 - Created various weekly, monthly, and ad hoc reports and communicated to team members.
 - Produced annual room revenue budget for Breckenridge Hospitality.
 - Ensured accuracy of implemented rate strategies by auditing internal systems, staff (Front Desk, Sales, Reservations), and Wholesale/OTA partners.
-- Collaborated closely with Revenue Manager to constantly create varying revenue strategies spanning multiple channels, controlling for restrictions and demand.
-- Active participant of weekly yield meeting; Lead in absence of Revenue Manager.
-- Main point of contact for property-specific inquiries regarding rate, inventory, or content questions from OTA, Cen Res, and other partners.
-- Provided Group Sales with rate quotes and direction in Revenue Manager’s absence.
 
 ### Front Desk Manager (Inn at Keystone, Keystone CO, Sept 2008 – January 2011)
 
