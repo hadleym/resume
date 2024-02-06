@@ -6,6 +6,7 @@
 - Pipelines and Testing: Docker, Bamboo, Jenkins, Vagrant, Puppet.
 - Test Driven Development subscriber and proponent.
 - Proficient at bridging the gap between technical and non-technical stakeholders through clear and effective communication of complex technical concepts.
+- https://github.com/hadleym
 
 ## EXPERIENCE
 ### Senior Java Developer – eReinsure (2019 - Present)
