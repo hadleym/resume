@@ -14,6 +14,7 @@ Remote/Salt Lake City, UT
 - Develop backend solutions using modern versions of Java Spring Boot.
 - Lead Angular Frontend Development efforts.
 - Utilize Oracle Database (sql*Plus) for data storage and management.
+- Develop backend APIs for Frontend application consumption (openAPI 2.0 specification) 
 - Implement project tracking using Jira, facilitate communication and collaboration through Microsoft Teams, and establish CI/CD pipelines with Bamboo.
 - Collaborate with cross-functional teams to ensure the delivery of high-quality software products.
 
