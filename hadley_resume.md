@@ -1,33 +1,34 @@
 # Mark Hadley
 
 ## SKILL SET
-- Java (Spring Boot).
-- Rust, Python, Typescript, SQL, UNIX based systems.
-- Pipelines and Testing: Docker, Bamboo, Jenkins, Vagrant, Puppet.
-- Test Driven Development subscriber and proponent.
+- Backend Development: Java (Spring Boot), Rust.
+- Advocate for Test-Driven Development methodology 
 - Proficient at bridging the gap between technical and non-technical stakeholders through clear and effective communication of complex technical concepts.
+- Angular, Python, Typescript, SQL, UNIX based systems.
+- Pipelines and Testing: Docker, Bamboo, Jenkins, Vagrant, Puppet.
 - https://github.com/hadleym
 
 ## EXPERIENCE
 ### Senior Java Developer – eReinsure (2019 - Present)
 Remote/Salt Lake City, UT
+- Played a pivotal role in the inception and ongoing development of two major Spring Boot Java projects, contributing significantly to their progression and success.
+- Apply software design patterns extensively in Java Spring Boot.
+- Bugfix modern web application UIs using Angular.
+- Implement DevOps practices in a Continuous Integration/Continuous Delivery environment using Bamboo.
+- Leverage Unix shell scripting for automation tasks.
+- Practice Agile development methodologies, particularly Scrum, in various roles (lead, dev, product owner).
 - Manage multiple teams of 2-4 developers, overseeing the development of full stack applications.
-- Develop backend solutions using modern versions of Java Spring Boot.
-- Lead Angular Frontend Development efforts.
-- Utilize Oracle Database (sql/*Plus) for data storage and management.
+- Utilize Oracle Database (sql\*Plus) for data storage and management.
 - Develop backend APIs for Frontend application consumption (openAPI 2.0 specification) 
-- Implement project tracking using Jira, facilitate communication and collaboration through Microsoft Teams, and establish CI/CD pipelines with Bamboo.
 - Collaborate with cross-functional teams to ensure the delivery of high-quality software products.
 
 ### Backend Engineer – Evernym Inc. (2017 - 2019)
 Draper, UT
 - Co-maintainer and significant contributor to an open-source Rust identity library.
-- Included a C API with Node.js, Python, and Java wrappers.
-- Contributed Scala code for an in-house identity tool.
-- Implemented automated testing for full stack via Python, Vagrant, and Puppet; adjusted and maintained to assure product quality.
-- Designed, implemented, and maintained multiple Jenkins CI/CD Build Pipelines.
+- Designed, implemented, and maintained multiple Jenkins Continuous Integration/Continuous Delivery Build Pipelines.
+- Developed and Maintained C API with Node.js, Python, and Java wrappers.
+- Collaborated regularly with Front End Development, QA, Tech Enablement/Customers, Cryptography.
 - Team Member during launch of the Sovrin Foundation Permissioned Ledger (nodes in 6+ countries).
-- Collaborated regularly with multiple other teams: Front End Development, QA, Tech Enablement/Customers, Cryptography.
 
 ### Contractor - IBM Spectrum Protect Automation Testing – IBM (2016 - 2017)
 Tucson, AZ
