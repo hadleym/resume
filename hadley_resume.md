@@ -1,4 +1,5 @@
-# Mark Hadley
+# Mark Hadley 
+##### mhadleyco@gmail.com
 
 ## SKILL SET
 - Backend Development: Java (Spring Boot), Rust.
