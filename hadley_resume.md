@@ -6,7 +6,7 @@
 - Advocate for Test-Driven Development methodology 
 - Proficient at bridging the gap between technical and non-technical stakeholders through clear and effective communication of complex technical concepts.
 - Angular, Python, Typescript, SQL, UNIX based systems.
-- Pipelines and Testing: Docker, Bamboo, Jenkins, Vagrant, Puppet.
+- Pipelines and Testing: Docker, Bamboo, Jenkins, Vagrant, Puppet, Postman.
 - https://github.com/hadleym
 
 ## EXPERIENCE
